@@ -17,6 +17,7 @@
                  (:file "conditions")
                  (:file "low-level")
                  (:file "general")
+                 (:file "attributes")
                  (:module autowrap-spec
                           :pathname "spec"
                           :components ((:static-file "SDL2_ttf.h")))))
